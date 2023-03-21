@@ -18,11 +18,11 @@ The Personal Expense Manager app provides the following features:
  # Getting Started
 To get started with the project, follow these steps:
 
-Clone the repository to your local machine using git clone https://github.com/your_username/personal-expense-manager.git.
+* Clone the repository to your local machine using git clone https://github.com/your_username/personal-expense-manager.git.
 
-Open the project in your preferred code editor.
+* Open the project in your preferred code editor.
 
-Run flutter packages get to install all the required packages and dependencies.
+* Run flutter packages get to install all the required packages and dependencies.
 
 You're now ready to run the app on your local device or emulator by using the flutter run command.
 
@@ -30,11 +30,11 @@ You're now ready to run the app on your local device or emulator by using the fl
 # Dependencies
 This project relies on the following dependencies:
 
-Hive: A lightweight and fast key-value database.
+* Hive: A lightweight and fast key-value database.
 
-flutter_hooks: A Flutter package for building widgets with hooks.
+* flutter_hooks: A Flutter package for building widgets with hooks.
 
-intl: A Flutter package for internationalization and localization.
+* intl: A Flutter package for internationalization and localization.
 
 # Contributing
 Contributions are always welcome! If you'd like to contribute to the project, please fork the repository and create a pull request.
