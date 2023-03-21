@@ -1,18 +1,6 @@
 # Personal Expense Manager
  Personal Expense Manager app using Flutter
  
- 
- # Getting Started
-To get started with the project, follow these steps:
-
-Clone the repository to your local machine using git clone https://github.com/your_username/personal-expense-manager.git.
-
-Open the project in your preferred code editor.
-
-Run flutter packages get to install all the required packages and dependencies.
-
-You're now ready to run the app on your local device or emulator by using the flutter run command.
-
  # Features
 The Personal Expense Manager app provides the following features:
 
@@ -27,6 +15,19 @@ View a list of all expenses.
 Filter expenses by date or category.
 
 View the total amount of expenses.
+
+ 
+ # Getting Started
+To get started with the project, follow these steps:
+
+Clone the repository to your local machine using git clone https://github.com/your_username/personal-expense-manager.git.
+
+Open the project in your preferred code editor.
+
+Run flutter packages get to install all the required packages and dependencies.
+
+You're now ready to run the app on your local device or emulator by using the flutter run command.
+
 
 # Dependencies
 This project relies on the following dependencies:
