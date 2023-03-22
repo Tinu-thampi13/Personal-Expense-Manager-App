@@ -15,6 +15,17 @@ _The Personal Expense Manager app provides the following features:_
 * View the total amount of expenses.
 
  ---
+ ![WhatsApp Image 2023-03-22 at 8 21 14 PM](https://user-images.githubusercontent.com/79778565/226943705-6de51ff0-133b-43d8-9dc2-39756ee644ce.jpeg)
+
+ ![WhatsApp Image 2023-03-22 at 8 21 15 PM](https://user-images.githubusercontent.com/79778565/226943759-5af93c20-27ed-4423-936a-cf3f7cfb5ffe.jpeg)
+
+![WhatsApp Image 2023-03-22 at 8 21 15 PM (1)](https://user-images.githubusercontent.com/79778565/226943853-affd94ff-98ce-4948-af13-0ba254681255.jpeg)
+
+![WhatsApp Imag![WhatsApp Image 2023-03-22 at 8 21 16 PM (1)](https://user-images.githubusercontent.com/79778565/226943931-f8084d30-f109-4976-9020-68f5353391f6.jpeg)
+
+![WhatsApp Image 2023-03-22 at 8 21 16 PM (1)](https://user-images.githubusercontent.com/79778565/226944216-9e58ce6b-940f-4a38-a085-40f750b83157.jpeg)
+
+ ---
  # Getting Started
 _To get started with the project, follow these steps:_
 
