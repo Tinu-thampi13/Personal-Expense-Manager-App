@@ -16,21 +16,17 @@ _The Personal Expense Manager app provides the following features:_
 
  ---
 
+ <img src="https://user-images.githubusercontent.com/79778565/226949632-04961a58-7568-4d24-8c65-ac99d02847ee.jpeg" width="200" height="400" />
 
- 
- <img src="[https://user-images.githubusercontent.com/79778565/226945667-291db889-ed2f-4748-909f-bd5fb54f24b6.jpeg](https://user-images.githubusercontent.com/79778565/226948167-ea0d4491-8897-44cd-982b-0098ee2cbd67.jpeg)" data-canonical-src="[https://user-images.githubusercontent.com/79778565/226945667-291db889-ed2f-4748-909f-bd5fb54f24b6.jpeg](https://user-images.githubusercontent.com/79778565/226948167-ea0d4491-8897-44cd-982b-0098ee2cbd67.jpeg)" width="200" height="400" />
- 
- <img src="[https://user-images.githubusercontent.com/79778565/226945667-291db889-ed2f-4748-909f-bd5fb54f24b6.jpeg](https://user-images.githubusercontent.com/79778565/226948167-ea0d4491-8897-44cd-982b-0098ee2cbd67.jpeg](https://user-images.githubusercontent.com/79778565/226945667-291db889-ed2f-4748-909f-bd5fb54f24b6.jpeg))" data-canonical-src="[[https://user-images.githubusercontent.com/79778565/226945667-291db889-ed2f-4748-909f-bd5fb54f24b6.jpeg](https://user-images.githubusercontent.com/79778565/226948167-ea0d4491-8897-44cd-982b-0098ee2cbd67.jpeg](https://user-images.githubusercontent.com/79778565/226945667-291db889-ed2f-4748-909f-bd5fb54f24b6.jpeg))" width="200" height="400" />
- 
- ![WhatsApp Image 2023-03-22 at 8 27 36 PM](https://user-images.githubusercontent.com/79778565/226945667-291db889-ed2f-4748-909f-bd5fb54f24b6.jpeg)
+<img src="https://user-images.githubusercontent.com/79778565/226945667-291db889-ed2f-4748-909f-bd5fb54f24b6.jpeg" width="200" height="400" />
 
- ![WhatsApp Image 2023-03-22 at 8 21 15 PM](https://user-images.githubusercontent.com/79778565/226943759-5af93c20-27ed-4423-936a-cf3f7cfb5ffe.jpeg)
+<img src="https://user-images.githubusercontent.com/79778565/226943759-5af93c20-27ed-4423-936a-cf3f7cfb5ffe.jpeg" width="200" height="400" />
 
-![WhatsApp Image 2023-03-22 at 8 21 15 PM (1)](https://user-images.githubusercontent.com/79778565/226943853-affd94ff-98ce-4948-af13-0ba254681255.jpeg)
+<img src="https://user-images.githubusercontent.com/79778565/226943853-affd94ff-98ce-4948-af13-0ba254681255.jpeg" width="200" height="400" />
 
-![WhatsApp Imag![WhatsApp Image 2023-03-22 at 8 21 16 PM (1)](https://user-images.githubusercontent.com/79778565/226943931-f8084d30-f109-4976-9020-68f5353391f6.jpeg)
+<img src="https://user-images.githubusercontent.com/79778565/226943931-f8084d30-f109-4976-9020-68f5353391f6.jpeg" width="200" height="400" />
 
-![WhatsApp Image 2023-03-22 at 8 21 16 PM (1)](https://user-images.githubusercontent.com/79778565/226944216-9e58ce6b-940f-4a38-a085-40f750b83157.jpeg)
+<img src="https://user-images.githubusercontent.com/79778565/226944216-9e58ce6b-940f-4a38-a085-40f750b83157.jpeg" width="200" height="400" />
 
  ---
  # Getting Started
