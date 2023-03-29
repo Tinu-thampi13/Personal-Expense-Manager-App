@@ -1,6 +1,7 @@
 # Personal Expense Manager
 _This Flutter project is a personal expense manager app that allows users to categorize their income and expenses. The app uses Hive as a local database to store and manage data, making it fast and efficient._
 --- 
+
  # Features
 _The Personal Expense Manager app provides the following features:_
 
