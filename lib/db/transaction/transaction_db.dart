@@ -1,5 +1,5 @@
 // ignore_for_file: constant_identifier_names, no_leading_underscores_for_local_identifiers
-
+// Import all necessary packages for the project
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:iota/models/transaction/transaction_model.dart';
@@ -31,7 +31,7 @@ class TransactionDB implements TransactionDbFunctions {
 
   Future<void> refresh() async {
     final _list = await getAllTransactions();
-    _list.sort((first, second) => second.date.compareTo(first.date));
+    _list.sort((first, second) => second.date.compareTo(first.date)); // Sort all the transactions according to the date
     transactionListNotifier.value.clear();
     transactionListNotifier.value.addAll(_list);
     transactionListNotifier.notifyListeners();
@@ -46,7 +46,7 @@ class TransactionDB implements TransactionDbFunctions {
   @override
   Future<void> deleteTransaction(String id) async {
     final _db = await Hive.openBox<TransactionModel>(TRANSACTION_DB_NAME);
-    await _db.delete(id);
+    await _db.delete(id); // Delete the transaction from the local database
     refresh();
   }
 }
