@@ -1,3 +1,4 @@
+// Import all the necessary pakages for the HomeScreen page
 import 'package:flutter/material.dart';
 import 'package:iota/db/category/category_db.dart';
 import 'package:iota/models/category/category_model.dart';
@@ -33,6 +34,7 @@ class _home_screenState extends State<home_screen> {
   // theme: _iconBool ? _darkTheme : _lightTheme,
   @override
   Widget build(BuildContext context) {
+    // UI for Homescreen page
     return Scaffold(
       appBar: AppBar(
         title: const Text('IOTA'),
