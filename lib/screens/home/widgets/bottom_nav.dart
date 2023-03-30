@@ -7,6 +7,7 @@ class bottom_nav extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    // Ui for Bottom Navbar
     return ValueListenableBuilder(
       valueListenable: home_screen.selectedIndexNotifier,
       builder: (BuildContext ctx, int updatedIndex, Widget? _) {
