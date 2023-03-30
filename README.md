@@ -2,7 +2,7 @@
 ## _This Flutter project is a personal expense manager app that allows users to categorize their income and expenses. The app uses Hive as a local database to store and manage data, making it fast and efficient._
 --- 
 
- # Features
+ # Features:
 _The Personal Expense Manager app provides the following features:_
 
 * Add new expenses with a title, description, amount, and date.
@@ -16,6 +16,8 @@ _The Personal Expense Manager app provides the following features:_
 * View the total amount of expenses.
 
  ---
+ 
+ # Project Preview:
  <p float="left">
 
 <img src="https://user-images.githubusercontent.com/79778565/226949632-04961a58-7568-4d24-8c65-ac99d02847ee.jpeg" width="200" height="400" hspace="5" />
@@ -42,7 +44,7 @@ _The Personal Expense Manager app provides the following features:_
 
 ---
 
-# Getting Started
+# Getting Started:
 
 _To get started with the project, follow these steps:_
 
@@ -55,7 +57,7 @@ _To get started with the project, follow these steps:_
 You're now ready to run the app on your local device or emulator by using the `flutter run` command.
 
 ---
-# Dependencies
+# Dependencies:
 _This project relies on the following dependencies:_
 
 * **Hive**: A lightweight and fast key-value database.
@@ -64,9 +66,9 @@ _This project relies on the following dependencies:_
 
 * **intl**: A Flutter package for internationalization and localization.
 ---
-# Contributing
+# Contributing:
 Contributions are always welcome! If you'd like to contribute to the project, please fork the repository and create a pull request.
 
 ---
-# License
+# License:
 This project is licensed under the **MIT License**. See the **LICENSE** file for more details.
