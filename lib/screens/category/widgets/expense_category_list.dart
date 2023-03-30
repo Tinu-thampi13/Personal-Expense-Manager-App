@@ -8,6 +8,7 @@ class expense_category_list extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    // UI for expense list page
     return ValueListenableBuilder(
       valueListenable: CategoryDB().expenseCategoryListListener,
       builder: (BuildContext ctx, List<CategoryModel> newList, Widget? _) {
