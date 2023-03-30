@@ -1,3 +1,4 @@
+// Import all the necessary packages  
 import 'package:hive/hive.dart';
 import 'package:iota/models/category/category_model.dart';
 part 'transaction_model.g.dart';
