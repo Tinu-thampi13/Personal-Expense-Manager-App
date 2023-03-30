@@ -14,6 +14,7 @@ class transaction_screen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    // UI for transaction screen
     TransactionDB.instance.refresh();
     CategoryDB.instance.refreshUI();
     // ignore: prefer_const_constructors
