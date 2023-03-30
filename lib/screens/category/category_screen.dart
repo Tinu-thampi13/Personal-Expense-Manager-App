@@ -1,3 +1,4 @@
+// Import all the necessary packages for the category page
 import 'package:flutter/material.dart';
 import 'package:iota/db/category/category_db.dart';
 import 'package:iota/screens/category/widgets/expense_category_list.dart';
