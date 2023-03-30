@@ -1,3 +1,4 @@
+// Import all the necessary packages for the project
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:iota/models/category/category_model.dart';
