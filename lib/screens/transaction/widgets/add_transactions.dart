@@ -31,6 +31,7 @@ class _screenAdd_transactionState extends State<screenAdd_transaction> {
 
   @override
   Widget build(BuildContext context) {
+    // UI for add_transaction page
     return Scaffold(
       body: SafeArea(
         child: SingleChildScrollView(
