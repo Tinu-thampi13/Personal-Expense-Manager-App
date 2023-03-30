@@ -12,6 +12,7 @@ Future<void> showCategoryAddPopup(BuildContext context) async {
   showDialog(
     context: context,
     builder: (ctx) {
+        // UI for popup (To add category)
       return SimpleDialog(
         title: const Text('Add Category'),
         children: [
