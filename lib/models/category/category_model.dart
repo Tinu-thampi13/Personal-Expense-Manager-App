@@ -1,6 +1,8 @@
+// Import all the necessary packages for this model
 import 'package:hive_flutter/adapters.dart';
 part 'category_model.g.dart';
 
+// Added category type to the model in hive
 @HiveType(typeId: 2)
 enum CategoryType {
   @HiveField(0)
